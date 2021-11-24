@@ -1,2 +1,2 @@
 # master
-](ruta/de/tu/imagen.png)
+![](https://github.com/dianapajonarest/master/blob/main/gitlog.png)
